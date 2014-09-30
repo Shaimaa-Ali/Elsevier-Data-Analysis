@@ -1,0 +1,9 @@
+Source_Title=xocs:srctitle=2
+Document_Title=ce:title=3
+Abstract=ce:abstract-sec=2
+Keywords=ce:keyword=3
+Section_Title=xocs:item-toc-section-title=1
+Authors=ce:author=1
+Text=ce:note-para=1
+Text=ce:simple-para=1
+Text=ce:para=1
